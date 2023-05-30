@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ufuk Ünal</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Pokus Mobile Apps](https://pokus.com.tr/)
+- 🔭 I’m currently working at Bilge Adam
 
 - 📝 I regularly write articles on [https://ufukunal.medium.com/](https://ufukunal.medium.com/)
 
