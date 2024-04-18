@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at Bilge Adam
 
-- 📝 I regularly write articles on [https://ufukunal.medium.com/](https://ufukunal.medium.com/)
+- 📝 I regularly write articles on [https://codestblog.com//](https://codestblog.com//)
 
 - 📫 How to reach me **ufukunal.00@gmail.com**
 
